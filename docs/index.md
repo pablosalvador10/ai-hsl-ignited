@@ -1,7 +1,7 @@
 ---
 layout: single
-title: false           # or empty string (""), so no page-level title
-hide_title: true       # ensures the theme doesn't show a heading
+title: false        # or ""
+hide_title: true    # Ensures no large heading is rendered
 permalink: /
 ---
 
