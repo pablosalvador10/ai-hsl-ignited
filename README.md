@@ -4,26 +4,7 @@
 
 <br>
 
-Welcome to **AI HLS Ignited**, awebinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.  
-
-## **Who Should Attend?** 🎯  
-
-🔹 **Healthcare Executives & Decision-Makers**  
-Looking for **practical AI solutions** with a **clear ROI**? This event is tailored for leaders seeking **real applications** of AI **beyond chatbots**, focusing on transformative solutions that drive efficiency and **improve patient outcomes**.  
-
-🔹 **AI Engineers & Architects**  
-Want a **hands-on deep dive**? Get direct access to **GitHub repositories, real-world implementations**, and technical guidance to **accelerate AI development** and **optimize enterprise AI solutions**.  
-
-## **Why Attend?** 🌟  
-
-🚀 **Accelerate AI Adoption**  
-Explore **actionable AI strategies** that can be **deployed immediately** to enhance operational workflows, automate complex tasks, and **drive tangible business impact**.  
-
-📊 **Gain Industry Insights**  
-Hear from **leading AI experts** as they break down **real-world case studies**, industry challenges, and **proven solutions** that are **shaping the future of healthcare AI**.  
-
-🛠 **Hands-On AI Innovation**  
-Get access to **AI assets, tools, and technical resources** designed to **kickstart your AI journey**—from optimizing brownfield systems to **igniting new greenfield AI projects**.  
+Welcome to **AI HLS Ignited**, awebinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.   
 
 ## **Event Details** 🗓️  
 
@@ -46,6 +27,25 @@ Get access to **AI assets, tools, and technical resources** designed to **kickst
 | **From Frustration to Automation: Accelerating Prior Authorization with Azure AI** | To Be Announced                       | [Register Now](https://example.com/register8)     |
 
 *Note: All sessions are virtual and free to attend.*  
+
+## **Who Should Attend?** 🎯  
+
+🔹 **Healthcare Executives & Decision-Makers**  
+Looking for **practical AI solutions** with a **clear ROI**? This event is tailored for leaders seeking **real applications** of AI **beyond chatbots**, focusing on transformative solutions that drive efficiency and **improve patient outcomes**.  
+
+🔹 **AI Engineers & Architects**  
+Want a **hands-on deep dive**? Get direct access to **GitHub repositories, real-world implementations**, and technical guidance to **accelerate AI development** and **optimize enterprise AI solutions**.  
+
+## **Why Attend?** 🌟  
+
+🚀 **Accelerate AI Adoption**  
+Explore **actionable AI strategies** that can be **deployed immediately** to enhance operational workflows, automate complex tasks, and **drive tangible business impact**.  
+
+📊 **Gain Industry Insights**  
+Hear from **leading AI experts** as they break down **real-world case studies**, industry challenges, and **proven solutions** that are **shaping the future of healthcare AI**.  
+
+🛠 **Hands-On AI Innovation**  
+Get access to **AI assets, tools, and technical resources** designed to **kickstart your AI journey**—from optimizing brownfield systems to **igniting new greenfield AI projects**. 
 
 ## **Get Involved** 🤝  
 
