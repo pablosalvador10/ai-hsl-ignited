@@ -9,9 +9,9 @@ classes: "narrow"  # Makes the content container narrower (optional)
 <div align="center">
   <!-- Video banner with autoplay, loop, muted, and playsinline for smooth playback -->
   <video autoplay muted loop playsinline style="width:100%; height:auto;">
-    <source src="utils/images/banner/AI_HLS_Ignited.mp4" type="video/mp4">
+    <source src="assets/videos/AI_HLS_Ignited.mp4" type="video/mp4">
     <!-- Fallback image if video is not supported -->
-    <img src="utils/images/banner/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner">
+    <img src="assets/images/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner">
   </video>
 </div>
 <br>
