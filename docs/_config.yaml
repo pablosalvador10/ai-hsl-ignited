@@ -3,7 +3,7 @@ description: "Discover AI-powered solutions revolutionizing Healthcare & Life Sc
 baseurl: ""
 url: "https://github.com/pablosalvador10/ai-hsl-ignited"
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-feed
@@ -26,5 +26,5 @@ defaults:
 
 header:
   overlay_image: /assets/AI_HLS_Ignited.jpg
-  caption: "Microsoft Azure AI - Powering the Future of Healthcar"
+  caption: "Microsoft Azure AI - Powering the Future of Healthcare"
   overlay_filter: 0.5
