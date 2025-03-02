@@ -6,15 +6,14 @@ permalink: /
 classes: "narrow"  # Makes the content container narrower (optional)
 ---
 
-<!-- Your custom banner (video or image) at the very top -->
-<div style="text-align: center; margin: 0 auto;">
-  <video autoplay muted loop playsinline style="width:82%; height:auto;">
-    <source src="/assets/videos/AI_HLS_Ignited.mp4" type="video/mp4">
-    <!-- Fallback image -->
-    <img src="/assets/images/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner">
+<div align="center">
+  <!-- Video banner with autoplay, loop, muted, and playsinline for smooth playback -->
+  <video autoplay muted loop playsinline style="width:100%; height:auto;">
+    <source src="utils/images/banner/AI_HLS_Ignited.mp4" type="video/mp4">
+    <!-- Fallback image if video is not supported -->
+    <img src="utils/images/banner/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner">
   </video>
 </div>
-
 <br>
 
 Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.
