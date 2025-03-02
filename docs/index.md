@@ -9,7 +9,7 @@ permalink: /
 <div class="video-container">
   <video autoplay loop muted playsinline class="hero-video">
     <source src="/assets/videos/AI_HLS_Ignited.mp4" type="video/mp4">
-    <img src="/assets/images/AI_HLS_Ignited_Fallback.jpg" alt="AI HLS Ignited Banner">
+    <img src="/assets/images/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner">
   </video>
   <div class="overlay"></div>
 </div>

@@ -5,14 +5,18 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 /* 🔹 Video Banner Styling */
 .video-container {
     position: relative;
     width: 100%;
-    height: 400px;
+    height: 450px;
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .hero-video {
@@ -21,13 +25,29 @@ body {
     object-fit: cover;
 }
 
+/* 🔹 Overlay Effect for Text Contrast */
 .overlay {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 120, 212, 0.2); /* Soft Azure overlay */
+    background: rgba(0, 120, 212, 0.35); /* Slightly stronger Azure overlay */
+}
+
+/* 🔹 Hero Text (Now Fully Centered & Modern) */
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6); /* Stronger background for readability */
+    padding: 25px 50px;
+    border-radius: 10px;
+    font-size: 1.6em;
+    font-weight: bold;
 }
 
 /* 🔹 Announcement Bubble Styling */
@@ -38,8 +58,8 @@ body {
     text-align: center;
     max-width: 850px;
     margin: -70px auto 40px;
-    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.15);
-    border: 3px solid #0078D4;
+    box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.2); /* Stronger shadow for a bubble effect */
+    border: 4px solid #0078D4;
     animation: fadeIn 1.5s ease-in-out;
 }
 
@@ -49,48 +69,68 @@ body {
     to { opacity: 1; transform: translateY(0); }
 }
 
+/* 🔹 Announcement Title */
 .announcement-title {
     color: #0078D4;
-    font-size: 2.8em;
+    font-size: 3em;
     font-weight: bold;
+    margin-bottom: 10px;
 }
 
 .announcement-subtitle {
     color: #005A9E;
-    font-size: 1.6em;
+    font-size: 1.8em;
     font-weight: 500;
 }
 
 .announcement-text {
-    font-size: 1.3em;
+    font-size: 1.4em;
     margin-top: 15px;
 }
 
-/* 🔹 Event Grid */
+/* 🔹 Event Details Section (Better Spacing) */
+.section {
+    margin-top: 50px;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 12px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* 🔹 Event Grid (Now More Compact) */
 .event-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
     text-align: center;
+    margin-top: 20px;
 }
 
 .event-item {
     background: #e5f3ff;
-    padding: 15px;
-    border-radius: 10px;
+    padding: 18px;
+    border-radius: 12px;
     font-size: 1.2em;
     font-weight: 500;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-/* 🔹 Table Styling */
+/* 🔹 Table Styling (Now More Professional) */
 .azure-table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 .azure-table th, .azure-table td {
-    padding: 15px;
+    padding: 18px;
     text-align: center;
     border-bottom: 1px solid #ddd;
 }
@@ -98,6 +138,12 @@ body {
 .azure-table th {
     background-color: #0078D4;
     color: white;
+    font-size: 1.3em;
+}
+
+.azure-table td {
+    font-size: 1.2em;
+    font-weight: 500;
 }
 
 .azure-table a {
@@ -107,4 +153,25 @@ body {
 
 .azure-table a:hover {
     text-decoration: underline;
+}
+
+/* 🔹 Responsive Design */
+@media (max-width: 768px) {
+    .hero-text {
+        font-size: 1.3em;
+        padding: 15px 30px;
+    }
+
+    .announcement-box {
+        padding: 25px;
+        max-width: 90%;
+    }
+
+    .event-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .azure-table th, .azure-table td {
+        padding: 12px;
+    }
 }
