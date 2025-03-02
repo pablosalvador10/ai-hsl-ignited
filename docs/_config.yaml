@@ -26,5 +26,5 @@ defaults:
 
 header:
   overlay_image: /assets/AI_HLS_Ignited.jpg
-  caption: "Microsoft Azure AI - Powering the Future of Healthcare"
+  caption: "Microsoft Azure AI - Powering the Future of Healthcar"
   overlay_filter: 0.5
