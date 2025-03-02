@@ -1,6 +1,6 @@
 title: "AI HLS Ignited: Transforming Healthcare with Azure AI"
 description: "Discover AI-powered solutions revolutionizing Healthcare & Life Sciences."
-baseurl: "/ai-hsl-ignited"  # Ensure it matches your repository name
+baseurl: "/ai-hsl-ignited"  # or your repo name if using one
 url: "https://pablosalvador10.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -12,7 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
-# Customize appearance
+# Default front matter
 defaults:
   - scope:
       path: ""
@@ -20,11 +20,11 @@ defaults:
     values:
       layout: "single"
       author_profile: true
-      read_time: true
       comments: false
       share: true
       related: true
 
+# Minimal Mistakes header example (optional)
 header:
-  overlay_image: "/assets/azure-banner.jpg"  # Fallback image in case video does not load
+  overlay_image: "/assets/images/AI_HLS_Ignited.jpg"  # Fallback or hero image
   overlay_filter: 0.5

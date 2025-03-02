@@ -1,12 +1,27 @@
-/* Custom CSS Overrides for Minimal Mistakes Theme */
+/* custom.scss */
 
-/* Center header title and subtitle */
-.page-header__title,
-.page-header__subtitle {
-  text-align: center;
-}
+/* Force center alignment for page title, subtitles, and main content. 
+   Adjust selectors as needed. */
 
-/* Center main content paragraphs (if desired) */
-.content {
-  text-align: center;
-}
+   .page-header__title,
+   .page-header__subtitle,
+   .page__content,
+   .entry-header,
+   .entry-content {
+     text-align: center !important;
+   }
+   
+   /* If you want lists centered too, uncomment below:
+   ul, ol {
+     margin: 0 auto;
+     text-align: left; // Or 'center' if you truly want the bullet points centered
+   }
+   */
+   
+   /* If you want the container narrower, you can do:
+   .container {
+     max-width: 800px;
+     margin: 0 auto;
+   }
+   */
+   
