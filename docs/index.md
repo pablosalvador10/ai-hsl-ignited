@@ -1,15 +1,16 @@
 ---
 layout: single
-title: "AI HLS Ignited: Transforming Healthcare with Azure AI"
-classes: wide
+title: false       # Turn off the default title
+hide_title: true   # Ensures no theme-generated title is shown
 permalink: /
+classes: "narrow"  # Makes the content container narrower (optional)
 ---
 
-<!-- If you want a custom banner, you can embed it here -->
-<div align="center">
-  <video autoplay muted loop playsinline style="width:100%; height:auto;">
+<!-- Your custom banner (video or image) at the very top -->
+<div style="text-align: center; margin: 0 auto;">
+  <video autoplay muted loop playsinline style="width:82%; height:auto;">
     <source src="/assets/videos/AI_HLS_Ignited.mp4" type="video/mp4">
-    <!-- Fallback image if video is not supported -->
+    <!-- Fallback image -->
     <img src="/assets/images/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner">
   </video>
 </div>

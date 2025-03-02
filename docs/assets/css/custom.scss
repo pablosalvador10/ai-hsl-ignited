@@ -1,27 +1,26 @@
-/* custom.scss */
+/* Center your main content and adjust font sizes. */
 
-/* Force center alignment for page title, subtitles, and main content. 
-   Adjust selectors as needed. */
+/* Make paragraphs and headings centered */
+.page__content p,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  text-align: center !important;
+}
 
-   .page-header__title,
-   .page-header__subtitle,
-   .page__content,
-   .entry-header,
-   .entry-content {
-     text-align: center !important;
-   }
-   
-   /* If you want lists centered too, uncomment below:
-   ul, ol {
-     margin: 0 auto;
-     text-align: left; // Or 'center' if you truly want the bullet points centered
-   }
-   */
-   
-   /* If you want the container narrower, you can do:
-   .container {
-     max-width: 800px;
-     margin: 0 auto;
-   }
-   */
-   
+/* If you want bullet lists centered, too, uncomment:
+ul, ol {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left; // or center, but center-aligned bullets can look odd
+}
+*/
+
+/* Adjust base font size for the page content */
+.page__content {
+  font-size: 16px; /* tweak up or down as desired */
+  margin-top: 0;   /* reduce top spacing if desired */
+}
