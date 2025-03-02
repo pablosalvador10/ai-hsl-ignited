@@ -3,18 +3,18 @@ layout: home
 title: "AI HLS Ignited: Solutions That Matter with Azure AI"
 description: "Discover AI-powered solutions transforming Healthcare & Life Sciences."
 header:
-  overlay_image: /assets/azure-ai-banner.jpg
-  caption: "Microsoft Azure AI - Powering the Future of Healthcare"
+  overlay_video: /assets/videos/banner.mp4
   overlay_filter: 0.5
 ---
 
 <div align="center">
-  <img src="utils/images/banner/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner" style="width:100%; height:auto;">
+  <video autoplay muted loop playsinline style="width:100%; height:auto;">
+    <source src="/assets/AI_HLS_Ignited.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 <br>
-
-# **AI HLS Ignited: Transforming Healthcare with Azure AI** 🚀
 
 Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.
 
@@ -38,9 +38,6 @@ Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-w
 | **Improving Diagnostic Accuracy in Radiology with AI-Generated Preliminary Reads**  | To Be Announced                       | [Register Now](https://example.com/register7)     |
 | **From Frustration to Automation: Accelerating Prior Authorization with Azure AI** | To Be Announced                       | [Register Now](https://example.com/register8)     |
 
-*Note: All sessions are virtual and free to attend.*  
-
-
 ## **Who Should Attend?** 🎯  
 
 🔹 **Healthcare Executives & Decision-Makers**  
@@ -61,12 +58,8 @@ Hear from **leading AI experts** as they break down **real-world case studies**,
 Get access to **AI assets, tools, and technical resources** designed to **kickstart your AI journey**—from optimizing brownfield systems to **igniting new greenfield AI projects**.
 
 ## **Get Involved** 🤝  
-
-Have questions, ideas, or want to contribute? **Let’s innovate together!** Reach out at:  
-📩 [contact@example.com](mailto:contact@example.com)  
+📩 [Contact Us](mailto:contact@example.com)  
 
 ## **Spread the Word** 📣  
-
-Help us **transform healthcare AI** by sharing this event with your network:  
-
 🔹 **Share on LinkedIn** → [AI HLS Ignited Event Page](https://www.linkedin.com/events/ai-hls-ignited)  
+
