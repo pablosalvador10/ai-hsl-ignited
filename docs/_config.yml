@@ -1,2 +1,5 @@
-name: ""
 title: null
+name: ""
+description: ""
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"  # or "dark", or "custom" if you plan on fully customizing
