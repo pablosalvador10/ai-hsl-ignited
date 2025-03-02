@@ -1,43 +1,38 @@
 ---
 layout: home
-title: "AI HLS Ignited: Solutions That Matter with Azure AI"
-description: "Discover AI-powered solutions transforming Healthcare & Life Sciences."
+title: ""
+description: ""
 permalink: /
-header:
-  overlay_video: "/assets/videos/AI_HLS_Ignited.mp4"
-  overlay_filter: 0.5
 ---
 
-<!-- Video Banner (No text above it) -->
+<!-- Video Banner (First Element) -->
 <div class="video-container">
   <video autoplay loop muted playsinline class="hero-video">
     <source src="/assets/videos/AI_HLS_Ignited.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    <img src="/assets/images/AI_HLS_Ignited_Fallback.jpg" alt="AI HLS Ignited Banner">
   </video>
+  <div class="overlay"></div>
 </div>
 
-<!-- Announcement Bubble Box (Centered) -->
+<!-- Announcement Bubble Box (Centered, Professional Font) -->
 <div class="announcement-box">
   <h1 class="announcement-title">🚀 AI HLS Ignited</h1>
-  <p class="announcement-subtitle">Transforming Healthcare with Azure AI</p>
-
+  <p class="announcement-subtitle">Shaping the Future of Healthcare with Azure AI</p>
   <p class="announcement-text">
-    Join us for <strong>AI HLS Ignited</strong>, a premier webinar series showcasing 
-    <strong>real-world, high-impact AI solutions</strong> in Healthcare and Life Sciences (HLS).
-    Powered by <strong>Azure AI</strong> and led by <strong>Microsoft AI architects and industry experts</strong>,
-    this initiative is designed to transform healthcare through AI-driven innovation.
+    Discover how AI is revolutionizing healthcare. This exclusive webinar series, 
+    hosted by <strong>Microsoft AI architects</strong>, showcases **real-world AI solutions** that drive efficiency and impact.
   </p>
 </div>
 
 <!-- Event Details -->
 <div class="section">
   <h2>📅 Event Details</h2>
-  <ul>
-    <li><strong>Capacity:</strong> Limited to 1,000 attendees – <em>First-come, first-served</em></li>
-    <li><strong>Cost:</strong> Completely free – Open to all professionals committed to transforming healthcare</li>
-    <li><strong>Format:</strong> Virtual, live sessions with expert Q&A</li>
-    <li><strong>Objective:</strong> Empowering attendees with <strong>practical AI solutions</strong> to accelerate adoption and implementation</li>
-  </ul>
+  <div class="event-grid">
+    <div class="event-item">🎟 <strong>Capacity:</strong> 1,000 attendees (First-come, first-served)</div>
+    <div class="event-item">💰 <strong>Cost:</strong> Free</div>
+    <div class="event-item">🎥 <strong>Format:</strong> Virtual, Live Q&A</div>
+    <div class="event-item">🚀 <strong>Objective:</strong> Real AI solutions for healthcare</div>
+  </div>
 </div>
 
 <!-- Upcoming Sessions -->
