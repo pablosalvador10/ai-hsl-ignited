@@ -1,15 +1,5 @@
 <!-- Attempt to force the banner to span the entire browser width -->
-<div style="
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  width: 80vw;
-  max-width: 80vw;
-  overflow: hidden;
-  text-align: center;
-">
+<div class="banner-fullwidth">
   <video autoplay muted loop playsinline style="width:100%; height:auto;">
     <source src="assets/videos/AI_HLS_Ignited.mp4" type="video/mp4">
     <!-- Fallback image if video is not supported -->
