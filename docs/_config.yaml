@@ -3,13 +3,13 @@ description: "Discover AI-powered solutions revolutionizing Healthcare & Life Sc
 baseurl: ""
 url: "https://github.com/pablosalvador10/ai-hsl-ignited"
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-archives
+  - jekyll-include-cache
 
 # Customize appearance
 defaults:
