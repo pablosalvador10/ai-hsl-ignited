@@ -3,7 +3,6 @@ layout: single
 title: false           # or empty string (""), so no page-level title
 hide_title: true       # ensures the theme doesn't show a heading
 permalink: /
-classes: "narrow"      # optional: narrower content column
 ---
 
 <div align="center">
