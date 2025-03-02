@@ -1,5 +1,10 @@
-<div align="center">
-  <img src="utils/images/banner/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner" style="width:82%; height:auto;">
+<!-- Full-width banner at the top -->
+<div class="banner-fullwidth">
+  <video autoplay muted loop playsinline style="width:100%; height:auto;">
+    <source src="utils/videos/AI_HLS_Ignited.mp4" type="video/mp4">
+    <!-- Fallback image if video is not supported -->
+    <img src="utils/images/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner">
+  </video>
 </div>
 
 <br>
