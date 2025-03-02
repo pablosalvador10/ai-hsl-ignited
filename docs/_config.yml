@@ -1,5 +1,28 @@
 title: null
 name: ""
 description: ""
+
+# Apply the Minimal Mistakes theme
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"  # or "dark", or "custom" if you plan on fully customizing
+
+
+# Plugins for SEO, structured navigation, and performance
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Custom styling and branding
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: true
