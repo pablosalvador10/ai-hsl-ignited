@@ -1,0 +1,30 @@
+title: "AI HLS Ignited: Transforming Healthcare with Azure AI"
+description: "Discover AI-powered solutions revolutionizing Healthcare & Life Sciences."
+baseurl: ""
+url: "https://github.com/pablosalvador10/ai-hsl-ignited"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+
+# Customize appearance
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+header:
+  overlay_image: /assets/AI_HLS_Ignited.jpg
+  caption: "Microsoft Azure AI - Powering the Future of Healthcare"
+  overlay_filter: 0.5

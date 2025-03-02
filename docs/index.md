@@ -1,29 +1,41 @@
+---
+layout: home
+title: "AI HLS Ignited: Solutions That Matter with Azure AI"
+description: "Discover AI-powered solutions transforming Healthcare & Life Sciences."
+header:
+  overlay_image: /assets/azure-ai-banner.jpg
+  caption: "Microsoft Azure AI - Powering the Future of Healthcare"
+  overlay_filter: 0.5
+---
+
 <div align="center">
   <img src="utils/images/banner/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner" style="width:80%; height:auto;">
 </div>
 
 <br>
 
-Welcome to **AI HLS Ignited**, awebinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.  
+# **AI HLS Ignited: Transforming Healthcare with Azure AI** 🚀
+
+Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.
 
 ## **Who Should Attend?** 🎯  
 
 🔹 **Healthcare Executives & Decision-Makers**  
-Looking for **practical AI solutions** with a **clear ROI**? This event is tailored for leaders seeking **real applications** of AI **beyond chatbots**, focusing on transformative solutions that drive efficiency and **improve patient outcomes**.  
+Looking for **practical AI solutions** with a **clear ROI**? This event is tailored for leaders seeking **real applications** of AI **beyond chatbots**, focusing on transformative solutions that drive efficiency and **improve patient outcomes**.
 
 🔹 **AI Engineers & Architects**  
-Want a **hands-on deep dive**? Get direct access to **GitHub repositories, real-world implementations**, and technical guidance to **accelerate AI development** and **optimize enterprise AI solutions**.  
+Want a **hands-on deep dive**? Get direct access to **GitHub repositories, real-world implementations**, and technical guidance to **accelerate AI development** and **optimize enterprise AI solutions**.
 
 ## **Why Attend?** 🌟  
 
 🚀 **Accelerate AI Adoption**  
-Explore **actionable AI strategies** that can be **deployed immediately** to enhance operational workflows, automate complex tasks, and **drive tangible business impact**.  
+Explore **actionable AI strategies** that can be **deployed immediately** to enhance operational workflows, automate complex tasks, and **drive tangible business impact**.
 
 📊 **Gain Industry Insights**  
-Hear from **leading AI experts** as they break down **real-world case studies**, industry challenges, and **proven solutions** that are **shaping the future of healthcare AI**.  
+Hear from **leading AI experts** as they break down **real-world case studies**, industry challenges, and **proven solutions** that are **shaping the future of healthcare AI**.
 
 🛠 **Hands-On AI Innovation**  
-Get access to **AI assets, tools, and technical resources** designed to **kickstart your AI journey**—from optimizing brownfield systems to **igniting new greenfield AI projects**.  
+Get access to **AI assets, tools, and technical resources** designed to **kickstart your AI journey**—from optimizing brownfield systems to **igniting new greenfield AI projects**.
 
 ## **Event Details** 🗓️  
 
@@ -60,4 +72,8 @@ Help us **transform healthcare AI** by sharing this event with your network:
 
 ## **License** 📄  
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+*© 2025 Your Organization Name. All rights reserved.*
