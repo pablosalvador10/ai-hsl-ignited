@@ -1,9 +1,9 @@
 ---
 layout: single
-title: false       # Turn off the default title
-hide_title: true   # Ensures no theme-generated title is shown
+title: false           # or empty string (""), so no page-level title
+hide_title: true       # ensures the theme doesn't show a heading
 permalink: /
-classes: "narrow"  # Makes the content container narrower (optional)
+classes: "narrow"      # optional: narrower content column
 ---
 
 <div align="center">
