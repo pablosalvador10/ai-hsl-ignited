@@ -2,19 +2,13 @@
 layout: home
 title: "AI HLS Ignited: Solutions That Matter with Azure AI"
 description: "Discover AI-powered solutions transforming Healthcare & Life Sciences."
+permalink: /
 header:
-  overlay_video: /assets/videos/banner.mp4
+  overlay_video: assets/AI_HLS_Ignited.mp4
   overlay_filter: 0.5
 ---
 
-<div align="center">
-  <video autoplay muted loop playsinline style="width:100%; height:auto;">
-    <source src="/assets/AI_HLS_Ignited.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-<br>
+Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.
 
 Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.
 

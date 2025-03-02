@@ -1,11 +1,12 @@
 title: "AI HLS Ignited: Transforming Healthcare with Azure AI"
 description: "Discover AI-powered solutions revolutionizing Healthcare & Life Sciences."
-baseurl: ""
-url: "https://github.com/pablosalvador10/ai-hsl-ignited"
+baseurl: "/ai-hsl-ignited" # This should be the name of your repo (DO NOT LEAVE EMPTY)
+url: "https://pablosalvador10.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -25,6 +26,6 @@ defaults:
       related: true
 
 header:
-  overlay_image: /assets/AI_HLS_Ignited.jpg
+  overlay_image: "/assets/AI_HLS_Ignited.jpg"
   caption: "Microsoft Azure AI - Powering the Future of Healthcare"
   overlay_filter: 0.5
