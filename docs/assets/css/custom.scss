@@ -1,0 +1,12 @@
+/* Custom CSS Overrides for Minimal Mistakes Theme */
+
+/* Center header title and subtitle */
+.page-header__title,
+.page-header__subtitle {
+  text-align: center;
+}
+
+/* Center main content paragraphs (if desired) */
+.content {
+  text-align: center;
+}
