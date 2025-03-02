@@ -1,6 +1,6 @@
 title: "AI HLS Ignited: Transforming Healthcare with Azure AI"
 description: "Discover AI-powered solutions revolutionizing Healthcare & Life Sciences."
-baseurl: "/ai-hsl-ignited" # This should be the name of your repo (DO NOT LEAVE EMPTY)
+baseurl: "/ai-hsl-ignited"  # Ensure it matches your repository name
 url: "https://pablosalvador10.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -26,6 +26,5 @@ defaults:
       related: true
 
 header:
-  overlay_image: "/assets/AI_HLS_Ignited.jpg"
-  caption: "Microsoft Azure AI - Powering the Future of Healthcare"
+  overlay_image: "/assets/azure-banner.jpg" # Fallback image in case video does not load
   overlay_filter: 0.5

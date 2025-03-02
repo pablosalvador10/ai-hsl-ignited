@@ -1,0 +1,86 @@
+/* Azure AI Themed Styles */
+body {
+    font-family: "Segoe UI", sans-serif;
+    background-color: #f3f3f3;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1.azure-title {
+    color: #0078D4;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+h2 {
+    color: #005A9E;
+    border-bottom: 2px solid #0078D4;
+    padding-bottom: 10px;
+}
+
+.azure-subtitle {
+    text-align: center;
+    font-size: 1.5em;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.azure-text {
+    text-align: center;
+    font-size: 1.2em;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Video Banner */
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.hero-video {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+/* Sections */
+.section {
+    background: white;
+    padding: 20px;
+    margin: 30px auto;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Table Styling */
+.azure-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.azure-table th, .azure-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.azure-table th {
+    background-color: #0078D4;
+    color: white;
+}
+
+.azure-table a {
+    color: #0078D4;
+    font-weight: bold;
+}
+
+.azure-table a:hover {
+    text-decoration: underline;
+}
