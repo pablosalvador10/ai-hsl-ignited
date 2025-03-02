@@ -1,4 +1,3 @@
-<!-- Attempt to force the banner to span the entire browser width -->
 <div style="
   position: relative;
   left: 50%;
@@ -9,8 +8,10 @@
   max-width: 100vw;
   overflow: hidden;
   text-align: center;
+  margin: 0;
+  background-color: #fff;
 ">
-  <video autoplay muted loop playsinline style="width:100%; height:auto;">
+  <video autoplay muted loop playsinline style="width:100%; height:auto; object-fit:cover;">
     <source src="assets/videos/AI_HLS_Ignited.mp4" type="video/mp4">
     <!-- Fallback image if video is not supported -->
     <img src="assets/images/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner">
@@ -21,7 +22,7 @@
 
 Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.
 
-## Event Details 🗓️
+## <span style="color:#148aff;">Event Details 🗓️</span>
 
 - **Capacity**: **Limited to 1,000 attendees** – *First-come, first-served*  
 - **Cost**: **Completely free** – Open to all professionals committed to transforming healthcare  
