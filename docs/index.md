@@ -1,18 +1,3 @@
----
-layout: null
-title: false
----
-
-<style>
-  /* Light gray-blue background */
-  body {
-    background-color: #f0f4f8; /* or any color you like */
-    margin: 0; 
-    padding: 0;
-    font-family: sans-serif; /* optional: sets a cleaner default font */
-  }
-</style>
-
 <!-- Attempt to force the banner to span the entire browser width -->
 <div style="
   position: relative;
