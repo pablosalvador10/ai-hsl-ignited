@@ -17,9 +17,6 @@
   </video>
 </div>
 
-<!-- Main content container -->
-<div style="text-align:center; font-size:14px; line-height:1.6; margin-top:1rem;">
-  
 Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.
 
 ## Event Details 🗓️
@@ -77,5 +74,3 @@ Help us **transform healthcare AI** by sharing this event with your network:
 ## License 📄
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-</div>
