@@ -1,3 +1,4 @@
+<!-- Attempt to force the banner to span the entire browser width -->
 <div style="
   position: relative;
   left: 50%;
@@ -8,10 +9,8 @@
   max-width: 100vw;
   overflow: hidden;
   text-align: center;
-  margin: 0;
-  background-color: #fff;
 ">
-  <video autoplay muted loop playsinline style="width:100%; height:auto; object-fit:cover;">
+  <video autoplay muted loop playsinline style="width:100%; height:auto;">
     <source src="assets/videos/AI_HLS_Ignited.mp4" type="video/mp4">
     <!-- Fallback image if video is not supported -->
     <img src="assets/images/AI_HLS_Ignited.jpg" alt="AI HLS Ignited Banner">
@@ -22,14 +21,14 @@
 
 Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.
 
-## <span style="color:#148aff;">Event Details 🗓️</span>
+## <span style="color:#005cb8;">Event Details 🗓️</span>
 
 - **Capacity**: **Limited to 1,000 attendees** – *First-come, first-served*  
 - **Cost**: **Completely free** – Open to all professionals committed to transforming healthcare  
 - **Format**: **Virtual, live sessions with expert Q&A**  
 - **Objective**: Empowering attendees with **practical AI solutions** to **accelerate adoption and implementation**
 
-## FY25 Upcoming Sessions 📅
+## <span style="color:#005cb8;">FY25 Upcoming Sessions 📅</span>
 
 | **Session Title**                                                                  | **Date & Time (CT)**                 | **Registration Link**                             |
 |------------------------------------------------------------------------------------|--------------------------------------|---------------------------------------------------|
@@ -44,7 +43,7 @@ Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-w
 
 *Note: All sessions are virtual and free to attend.*
 
-## Who Should Attend? 🎯
+## <span style="color:#005cb8;">Who Should Attend? 🎯</span>
 
 🔹 **Healthcare Executives & Decision-Makers**  
 Looking for **practical AI solutions** with a **clear ROI**? This event is tailored for leaders seeking **real applications** of AI **beyond chatbots**, focusing on transformative solutions that drive efficiency and **improve patient outcomes**.
@@ -52,7 +51,7 @@ Looking for **practical AI solutions** with a **clear ROI**? This event is tailo
 🔹 **AI Engineers & Architects**  
 Want a **hands-on deep dive**? Get direct access to **GitHub repositories, real-world implementations**, and technical guidance to **accelerate AI development** and **optimize enterprise AI solutions**.
 
-## Why Attend? 🌟
+## <span style="color:#005cb8;">Why Attend? 🌟</span>
 
 🚀 **Accelerate AI Adoption**  
 Explore **actionable AI strategies** that can be **deployed immediately** to enhance operational workflows, automate complex tasks, and **drive tangible business impact**.
@@ -63,17 +62,17 @@ Hear from **leading AI experts** as they break down **real-world case studies**,
 🛠 **Hands-On AI Innovation**  
 Get access to **AI assets, tools, and technical resources** designed to **kickstart your AI journey**—from optimizing brownfield systems to **igniting new greenfield AI projects**.
 
-## Get Involved 🤝
+## <span style="color:#005cb8;">Get Involved 🤝</span>
 
 Have questions, ideas, or want to contribute? **Let’s innovate together!** Reach out at:  
 📩 [contact@example.com](mailto:contact@example.com)
 
-## Spread the Word 📣
+## <span style="color:#005cb8;">Spread the Word 📣</span>
 
 Help us **transform healthcare AI** by sharing this event with your network:
 
 🔹 **Share on LinkedIn** → [AI HLS Ignited Event Page](https://www.linkedin.com/events/ai-hls-ignited)
 
-## License 📄
+## <span style="color:#005cb8;">License 📄</span>
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. Therefore all content and code in this repository are provided **"as is"** without warranty of any kind. See the [LICENSE](LICENSE) file for details. 
