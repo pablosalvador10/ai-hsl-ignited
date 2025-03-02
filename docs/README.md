@@ -5,8 +5,8 @@
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  width: 100vw;
-  max-width: 100vw;
+  width: 80vw;
+  max-width: 80vw;
   overflow: hidden;
   text-align: center;
 ">
