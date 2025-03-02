@@ -15,6 +15,6 @@ plugins:
   - jekyll-include-cache
 
 header:
-  display_title: false       # Hides the site title
-  display_description: false # Hides the site description
-  nav: false                 # Hides the top navigation entirely (optional)
+  display_title: false
+  display_description: false
+  nav: false
