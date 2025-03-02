@@ -70,11 +70,3 @@ Have questions, ideas, or want to contribute? **Let’s innovate together!** Rea
 Help us **transform healthcare AI** by sharing this event with your network:  
 
 🔹 **Share on LinkedIn** → [AI HLS Ignited Event Page](https://www.linkedin.com/events/ai-hls-ignited)  
-
-## **License** 📄  
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-*© 2025 Your Organization Name. All rights reserved.*
