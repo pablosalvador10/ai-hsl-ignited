@@ -21,16 +21,14 @@
 
 Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-world, high-impact AI solutions** in the Healthcare and Life Sciences (HLS) industry. Powered by **Azure AI** and presented by **Microsoft AI architects and industry experts**, this series is designed to drive meaningful change in healthcare through AI-driven innovation.
 
-## <span style="color:#005cb8;">Event Details 🗓️</span>
+## <span style="color:#005cb8;">Webinar Series Details 🛑LIVE </span>
 
-- **Capacity**: **Limited to 1,000 attendees** – *First-come, first-served*  
+- **Capacity**: **Limited to 1,000 attendees** – First-come, first-served  
 - **Cost**: **Completely free** – Open to all professionals committed to transforming healthcare  
-- **Format**: **Virtual, live sessions with expert Q&A**  
-- **Objective**: Empowering attendees with **practical AI solutions** to **accelerate adoption and implementation**
+- **Format**: **Virtual, live sessions with Microsoft experts Q&A**  
+- **Objective**: Empowering attendees with actionable AI strategies to accelerate adoption and drive meaningful change in healthcare.
 
 ## <span style="color:#005cb8;">FY25 Upcoming Sessions 📅</span>
-
-## **FY25 Upcoming Sessions** 📅  
 
 | **Session** | **Registration** | **Time** |
 |-------------|------------------|----------|
