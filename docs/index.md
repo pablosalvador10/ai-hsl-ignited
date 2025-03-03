@@ -30,16 +30,18 @@ Welcome to **AI HLS Ignited**, a webinar series dedicated to showcasing **real-w
 
 ## <span style="color:#005cb8;">FY25 Upcoming Sessions 📅</span>
 
-| **Session Title**                                                                  | **Date & Time (CT)**                 | **Registration Link**                             |
-|------------------------------------------------------------------------------------|--------------------------------------|---------------------------------------------------|
-| **Building AI-Powered Clinical Knowledge Stores with Azure AI Search**             | Friday, March 7, 2025, 1:30 PM – 2:30 PM | [Register Now](https://example.com/register1)     |
-| **Extraction, Interpretation, and Summarization of Clinical Information with Azure OpenAI** | Wednesday, March 12, 2025, 1:00 PM – 2:00 PM | [Register Now](https://example.com/register2)     |
-| **Reducing Administrative Burdens in Billing and Coding with Azure AI**            | Wednesday, March 19, 2025, 1:00 PM – 2:00 PM | [Register Now](https://example.com/register3)     |
-| **Optimizing Clinical Data Retrieval with Agentic Systems in Azure AI Foundry**    | To Be Announced                       | [Register Now](https://example.com/register4)     |
-| **Accelerating Claims Processing with Latest Azure OpenAI Reasoning Models**       | To Be Announced                       | [Register Now](https://example.com/register5)     |
-| **Automating Patient Pre-Charting with Realtime Voice Integration**                | To Be Announced                       | [Register Now](https://example.com/register6)     |
-| **Improving Diagnostic Accuracy in Radiology with AI-Generated Preliminary Reads** | To Be Announced                       | [Register Now](https://example.com/register7)     |
-| **From Frustration to Automation: Accelerating Prior Authorization with Azure AI** | To Be Announced                       | [Register Now](https://example.com/register8)     |
+## **FY25 Upcoming Sessions** 📅  
+
+| **Session** | **Registration** | **Time** |
+|-------------|------------------|----------|
+| **Building AI-Powered Clinical Knowledge Stores with Azure AI Search** | Register (here)[https://msit.events.teams.microsoft.com/event/a0042974-bbd6-4eb8-8720-e999192069d7@72f988bf-86f1-41af-91ab-2d7cd011db47] | Friday, March 14th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Extraction, Interpretation, and Summarization of Clinical Information with Azure OpenAI** | Register (here)[https://msit.events.teams.microsoft.com/event/79fc69e9-e6a8-44e7-9f9d-e47948a44f03@72f988bf-86f1-41af-91ab-2d7cd011db47] | Wednesday, March 26th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Reducing Administrative Burdens in Billing and Coding with Azure AI** | Register (here)[https://msit.events.teams.microsoft.com/event/3383a1a8-0bdc-4bb4-b8fa-2655680ebcdb@72f988bf-86f1-41af-91ab-2d7cd011db47] | Wednesday, April 9th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Optimizing Clinical Data Retrieval with Agentic Systems in Azure AI Foundry** |  | Wednesday, April 23rd \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Accelerating Claims Processing with latest Azure OpenAI reasoning models** |  | Wednesday, May 14th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Automating Patient Pre-Charting with Realtime Voice Integration** |  | Wednesday, May 21st \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **Improving Diagnostic Accuracy in Radiology with AI-Generated Preliminary Reads** |  | Wednesday, June 4th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
+| **From Frustration to Automation: Accelerating Prior Authorization with Azure AI** |  | Wednesday, June 18th \| 11:00 AM – 12:00 PM PST \| 1:00 PM – 2:00 PM CT |
 
 *Note: All sessions are virtual and free to attend.*
 
@@ -62,10 +64,10 @@ Hear from **leading AI experts** as they break down **real-world case studies**,
 🛠 **Hands-On AI Innovation**  
 Get access to **AI assets, tools, and technical resources** designed to **kickstart your AI journey**—from optimizing brownfield systems to **igniting new greenfield AI projects**.
 
-## <span style="color:#005cb8;">Get Involved 🤝</span>
+## <span style="color:#005cb8;">Contact us 🤝</span>
 
 Have questions, ideas, or want to contribute? **Let’s innovate together!** Reach out at:  
-📩 [contact@example.com](mailto:contact@example.com)
+📩 [aihlsignited@microsoft.com](mailto:aihlsignited@microsoft.com)  
 
 ## <span style="color:#005cb8;">Spread the Word 📣</span>
 
